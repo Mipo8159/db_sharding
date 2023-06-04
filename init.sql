@@ -1,0 +1,5 @@
+CREATE TABLE URL_TABLE (
+	id SERIAL PRIMARY KEY NOT NULL,
+	URL text,
+	URL_ID character(5)
+);
